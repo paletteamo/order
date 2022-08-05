@@ -13,7 +13,7 @@
             <a class="navbar-brand">
                 <small>
                     <i class="icon-leaf"></i>
-                    家常菜
+                    俺做菜都给圆圆吃
                 </small>
             </a><!-- /.brand -->
         </div><!-- /.navbar-header -->
